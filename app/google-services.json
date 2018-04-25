@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "872918577458",
+    "firebase_url": "https://capturetheflag-9ca0f.firebaseio.com",
+    "project_id": "capturetheflag-9ca0f",
+    "storage_bucket": "capturetheflag-9ca0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872918577458:android:587b979eab781a9e",
+        "android_client_info": {
+          "package_name": "com.example.obstinatebrar.capturetheflag"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872918577458-ijr06lmvtu10uduooua3kngug0cr2i8c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcuTe-53OyLu8fU9mUHFhuf-3Iv7J0FP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
